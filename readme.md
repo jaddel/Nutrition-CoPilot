@@ -13,7 +13,10 @@ Further it includes a recipe management system that does recipe recommendations 
 - User account management. 
 - Smart shopping pilot.
 - Web UI
-- Smart recipe suggestion system. 
+- Smart recipe suggestion system.
+- API
+
+
 
 
 
